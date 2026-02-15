@@ -1,4 +1,4 @@
-# 📊 Sales Dashboard
+# Sales Dashboard
 
 An interactive data analytics dashboard inspired by Power BI, built with React and Recharts.
 
